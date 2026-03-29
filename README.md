@@ -82,13 +82,6 @@ class Desman:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=desmanveliushalawa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -108,7 +101,7 @@ class Desman:
 
 ---
 
-## 😂 Random Dev Joke
+## Random Dev Joke
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card"/>
@@ -121,6 +114,6 @@ class Desman:
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐ If you find my work interesting, don't forget to star my repos! ⭐**
+** If you find my work interesting, don't forget to star my repos! **
 
 </div>
