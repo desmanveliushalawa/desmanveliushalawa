@@ -114,6 +114,6 @@ class Desman:
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-** If you find my work interesting, don't forget to star my repos! **
+**If you find my work interesting, don't forget to star my repos!**
 
 </div>
